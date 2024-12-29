@@ -1,4 +1,14 @@
-# fmt.Println("Hello, World!") 
+```bash
+(base) minaz@Mac ~ % cowsay Hello world
+ _____________
+< Hello world >
+ -------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
 I'm **Minaz**, a Software Engineer and Master's student at State University of New York, at Buffalo, passionate about solving complex challenges with elegant solutions. 💅🏻
 
