@@ -19,5 +19,5 @@ I'm **Minaz**, a Software Engineer and Master's student at State University of N
 
 ## 📫 Connect
 - **LinkedIn:** [linkedin.com/in/minaz-inamdar](https://www.linkedin.com/in/minaz-inamdar/)  
-- **Email:** inamdarminaz28@gmail.com  
+- **Email:** minazinamdar28@gmail.com  
 
