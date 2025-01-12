@@ -18,6 +18,6 @@ I'm **Minaz**, a Software Engineer and Master's student at State University of N
 - **Domains:** Software Architecture, Distributed Systems, Machine Learning  
 
 ## 📫 Connect
-- **LinkedIn:** [linkedin.com/in/minaz-inamdar](https://www.linkedin.com/in/minaz-inamdar/)  
+- **LinkedIn:** [linkedin.com/in/minaz-inamdar](https://www.linkedin.com/in/inamdarminaz)  
 - **Email:** minazinamdar28@gmail.com  
 
